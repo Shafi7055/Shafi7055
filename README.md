@@ -15,44 +15,46 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### 🌐 Front-End Development
+### 🌐 Front-End - Mobile Development
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
 
 ### ⚙️ Back-End Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 
-### 📱 Mobile App Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+### 🗄️ Database
 
-### 🤖 AI & Machine Learning
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb" />
 
-### 🗄️ Databases
-**SQL:**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+### 🔧 Tools
 
-**NoSQL:**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat&logo=mongodb&logoColor=white)
-
-### 🔧 Tools & Environments
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
-
+<a href="https://code.visualstudio.com/">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+<a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://developer.android.com/studio">
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
+</a>
+<a href="https://pandas.pydata.org/">
+  <img src="https://skillicons.dev/icons?i=pandas" />
+</a>
+<a href="https://scikit-learn.org/">
+  <img src="https://skillicons.dev/icons?i=scikitlearn" />
+</a>
 ---
 
 ## 🏆 Competitive Programming & Data Science Profiles
 
-- 📊 **Kaggle:** [ismailhossainshafi](https://www.kaggle.com/ismailhossainshafi)
-- 🧩 **LeetCode:** [shafi05](https://leetcode.com/u/shafi05/)
-- ⚔️ **Codeforces:** [shafi705](https://codeforces.com/profile/shafi705)
-- 🎯 **CodeChef:** [shafi705](https://www.codechef.com/users/shafi705)
-- ⚡ **AtCoder:** [Shafi404](https://atcoder.jp/users/Shafi404)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/ismailhossainshafi)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/shafi05/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shafi705)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/shafi705)
+[![AtCoder](https://img.shields.io/badge/AtCoder-222222?style=flat&logo=atcoder&logoColor=white)](https://atcoder.jp/users/Shafi404)
 
 ---
 
