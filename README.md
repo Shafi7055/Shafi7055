@@ -22,6 +22,7 @@
 <img src="https://skillicons.dev/icons?i=nodejs" />
 https://cdn-icons-png.flaticon.com/128/2906/2906274.png 
 
+### 🗃️ Database 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb" />
 
 ### 🔧 Tools
