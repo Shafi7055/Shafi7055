@@ -58,6 +58,6 @@
 
 ## 📊 Most Used Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismailhossainshafi&layout=compact&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shafi7055&layout=compact&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
