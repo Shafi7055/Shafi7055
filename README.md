@@ -32,16 +32,13 @@
 <a href="https://github.com/">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
+<a href="https://git-scm.com/">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
 <a href="https://developer.android.com/studio">
   <img src="https://skillicons.dev/icons?i=androidstudio" />
 </a>
-<a href="https://pandas.pydata.org/">
-  <img src="https://skillicons.dev/icons?i=pandas" />
-</a>
-<a href="https://scikit-learn.org/">
-  <img src="https://skillicons.dev/icons?i=scikitlearn" />
-</a>
----
+
 
 ## 🏆 Competitive Programming & Data Science Profiles
 
